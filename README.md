@@ -4,7 +4,7 @@ Early and accurate detection of plant diseases remains a challenge in the agricu
 
 Overview of the dataset
 
-The dataset contains images of potato leaves with three common diseases: early blight, late blight, and healthy leaves. The dataset consists of a total of 1,500 images, with 500 images for each class (early blight, late blight, and healthy leaves). The images have a resolution of 256x256 pixels.
+The dataset (https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset) contains images of potato leaves with three common diseases: early blight, late blight, and healthy leaves. The dataset consists of a total of 1,500 images, with 500 images for each class (early blight, late blight, and healthy leaves). The images have a resolution of 256x256 pixels.
 
 
 ![Screenshot (76)](https://github.com/user-attachments/assets/af6034a7-84ff-41ce-9e26-91563e80f64b)
